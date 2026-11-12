@@ -1,0 +1,20 @@
+{
+  "name": "Local HTML Loader",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "/manifest.webmanifest",
+      "id": "/?source=pwa"
+    }
+  ],
+  "display": "minimal-ui"
+}
