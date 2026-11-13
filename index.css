@@ -12,7 +12,7 @@ body {
 
 #center {
     display: block;
-    height: 50%;
+    height: 75%;
     aspect-ratio: 1 / 1;
     background-color: red;
 }
