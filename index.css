@@ -9,5 +9,6 @@ body {
     display: block;
     width: 50vw;
     height: 50vh;
-    aspect-ratio: 0.5;
+    aspect-ratio: 1;
+    background-color: red;
 }
