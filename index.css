@@ -13,6 +13,6 @@ body {
 #center {
     display: block;
     height: 75%;
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 1 / 2;
     background-color: red;
 }
